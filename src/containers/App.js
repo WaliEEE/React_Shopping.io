@@ -1,6 +1,6 @@
 import React from "react";
-import HomePage from "../components/homepage.jsx";
-import "./App.scss";
+import HomePage from "../components/home_page/homepage.jsx";
+import "tachyons";
 
 function App() {
   return (
