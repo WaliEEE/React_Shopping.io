@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WaliEEE/React_Shopping.io/static/css/main.0c51e338.chunk.css",
+    "main.js": "/WaliEEE/React_Shopping.io/static/js/main.99117d48.chunk.js",
+    "main.js.map": "/WaliEEE/React_Shopping.io/static/js/main.99117d48.chunk.js.map",
+    "runtime-main.js": "/WaliEEE/React_Shopping.io/static/js/runtime-main.b59b9cf8.js",
+    "runtime-main.js.map": "/WaliEEE/React_Shopping.io/static/js/runtime-main.b59b9cf8.js.map",
+    "static/css/2.31461e4f.chunk.css": "/WaliEEE/React_Shopping.io/static/css/2.31461e4f.chunk.css",
+    "static/js/2.734a5261.chunk.js": "/WaliEEE/React_Shopping.io/static/js/2.734a5261.chunk.js",
+    "static/js/2.734a5261.chunk.js.map": "/WaliEEE/React_Shopping.io/static/js/2.734a5261.chunk.js.map",
+    "index.html": "/WaliEEE/React_Shopping.io/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/WaliEEE/React_Shopping.io/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.0c51e338.chunk.css.map": "/WaliEEE/React_Shopping.io/static/css/main.0c51e338.chunk.css.map",
+    "static/js/2.734a5261.chunk.js.LICENSE.txt": "/WaliEEE/React_Shopping.io/static/js/2.734a5261.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b59b9cf8.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.734a5261.chunk.js",
+    "static/css/main.0c51e338.chunk.css",
+    "static/js/main.99117d48.chunk.js"
+  ]
+}
