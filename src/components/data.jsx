@@ -60,13 +60,6 @@
           imageUrl: "/images/shop-img/hats/wolf-cap.png",
           price: 14
         },
-        {
-          id: 9,
-          name: 'Blue Snapback',
-          // imageUrl: 'https://i.ibb.co/X2VJP2W/blue-snapback.png',
-          imageUrl: "/images/shop-img/hats/blue-snapback.png",
-          price: 16
-        }
       ]
     },
     {
@@ -165,13 +158,6 @@
           imageUrl: "/images/shop-img/jackets/brown-shearling.png",
           price: 165
         },
-        {
-          id: 22,
-          name: 'Tan Trench',
-          // imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
-          imageUrl: "/images/shop-img/jackets/brown-trench.png",
-          price: 185
-        }
       ]
     },
     {
@@ -179,6 +165,13 @@
       title: 'Womens',
       routeName: 'womens',
       items: [
+        {
+          id: 22,
+          name: 'Tan Trench',
+          // imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
+          imageUrl: "/images/shop-img/jackets/brown-trench.png",
+          price: 185
+        },
         {
           id: 23,
           name: 'Blue Tanktop',

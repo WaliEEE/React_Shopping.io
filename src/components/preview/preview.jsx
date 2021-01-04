@@ -5,13 +5,13 @@ import "tachyons";
 
 const PreviewPage = ({ title, items }) => (
   <div className="mt5 ml5 mr5">
-    <h1>{title}</h1>
-    <div className="preview">
-      {items
-        .filter((item, id) => id < 4)
-        .map(({ id, ...otherProps }) => (
+    <div>
+      <h1>{title}</h1>
+      <div className="preview">
+        {items.map(({ id, ...otherProps }) => (
           <PreviewCollection key={id} {...otherProps} />
         ))}
+      </div>
     </div>
   </div>
 );
