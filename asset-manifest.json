@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WaliEEE/React_Shopping.io/static/css/main.7c5edf79.chunk.css",
-    "main.js": "/WaliEEE/React_Shopping.io/static/js/main.500f61d4.chunk.js",
-    "main.js.map": "/WaliEEE/React_Shopping.io/static/js/main.500f61d4.chunk.js.map",
+    "main.js": "/WaliEEE/React_Shopping.io/static/js/main.58438531.chunk.js",
+    "main.js.map": "/WaliEEE/React_Shopping.io/static/js/main.58438531.chunk.js.map",
     "runtime-main.js": "/WaliEEE/React_Shopping.io/static/js/runtime-main.b59b9cf8.js",
     "runtime-main.js.map": "/WaliEEE/React_Shopping.io/static/js/runtime-main.b59b9cf8.js.map",
     "static/css/2.31461e4f.chunk.css": "/WaliEEE/React_Shopping.io/static/css/2.31461e4f.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.fc14a233.chunk.js",
     "static/css/main.7c5edf79.chunk.css",
-    "static/js/main.500f61d4.chunk.js"
+    "static/js/main.58438531.chunk.js"
   ]
 }
