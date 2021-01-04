@@ -1,0 +1,16 @@
+.collection-item {
+    height: 400px;
+
+    .image {
+        width: 95%;
+        height: 75%;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .collection-footer {
+        display: flex;
+        justify-content: space-between;
+        font-size: 15px;
+    }
+}
