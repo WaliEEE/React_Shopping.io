@@ -4,6 +4,8 @@ import FormInput from "../sign_form_input/formInput";
 import Button from "../button/button";
 import "tachyons";
 
+import { signInWithGoogle } from "../../firebase/firebase.utils.js";
+
 class Sign extends React.Component {
   constructor(props) {
     super(props);
@@ -47,7 +49,12 @@ class Sign extends React.Component {
             label="Password"
             required
           ></FormInput>
-          <Button type="submit" value="Submit">Sign In</Button>
+          <Button className="fl w-50 b--dark-green br-pill" type="submit">
+            Sign In
+          </Button>
+          <Button className="fl w-50 b--dark-blue br-pill" onClick={signInWithGoogle}>
+            With Google
+          </Button>
         </form>
       </div>
     );
